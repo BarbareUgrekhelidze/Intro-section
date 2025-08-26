@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro section with dropdown navigation solution
 
-This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://github.com/barbare999/Intro-section.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/Intro-section.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/Intro-section.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/Intro-section/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/Intro-section.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/Intro-section/)
 
 ## My process
 
@@ -35,5 +35,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Intro Section](https://barbare999.github.io/Intro-section/)
-- Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
+- Website - [Intro Section](https://BarbareUgrekhelidze.github.io/Intro-section/)
+- Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
