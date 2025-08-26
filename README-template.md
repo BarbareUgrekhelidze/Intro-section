@@ -36,4 +36,4 @@ Users should be able to:
 ## Author
 
 - Website - [Intro Section](https://BarbareUgrekhelidze.github.io/Intro-section/)
-- Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
